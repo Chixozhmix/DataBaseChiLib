@@ -1,0 +1,6 @@
+C:\Users\isip41\Documents\Рыбаченко Аристов\programs\Libs\DataBaseChiLib\DataBaseChiLib\bin\Debug\DataBaseChiLib.dll
+C:\Users\isip41\Documents\Рыбаченко Аристов\programs\Libs\DataBaseChiLib\DataBaseChiLib\bin\Debug\DataBaseChiLib.pdb
+C:\Users\isip41\Documents\Рыбаченко Аристов\programs\Libs\DataBaseChiLib\DataBaseChiLib\obj\Debug\DataBaseChiLib.csproj.AssemblyReference.cache
+C:\Users\isip41\Documents\Рыбаченко Аристов\programs\Libs\DataBaseChiLib\DataBaseChiLib\obj\Debug\DataBaseChiLib.csproj.CoreCompileInputs.cache
+C:\Users\isip41\Documents\Рыбаченко Аристов\programs\Libs\DataBaseChiLib\DataBaseChiLib\obj\Debug\DataBaseChiLib.dll
+C:\Users\isip41\Documents\Рыбаченко Аристов\programs\Libs\DataBaseChiLib\DataBaseChiLib\obj\Debug\DataBaseChiLib.pdb
